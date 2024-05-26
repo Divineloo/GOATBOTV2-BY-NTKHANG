@@ -30,7 +30,7 @@
   "GENDER": "MALE",
   "nickNameBot": "Dave-V2",
   "FACEBOOK": "https://www.facebook.com/61555835579977",
-  "prefix": "+",
+  "prefix": "-",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
